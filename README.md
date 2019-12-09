@@ -1,28 +1,32 @@
-First steps
------------
-
-Generate the documentation: make doc
 
 Build the application and test.
 
 V. Santos, 07-dez-2019,13:27
+
+ # Execution
+
+ # Compilation
+ 
+ Generate the documentation: make doc
+
+ # Installation
 
 Instructions and main packages
 ------------------------------
 To develop and build the application, besides the GNU C/C++ compiler,
 you need to have installed some packages:
 
-  cmake
+  **cmake
   libgtk-3-dev
-  glade
+  glade**
 
 and some documentation tools are highly advised:
 
-   libgtk-3-doc
+**libgtk-3-doc
    gtk-3-examples
    libcairo2-doc
    devhelp
-   Doxygen
+   Doxygen**
 
 So, perform the following:
 
