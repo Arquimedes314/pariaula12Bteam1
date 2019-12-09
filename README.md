@@ -4,10 +4,32 @@ Build the application and test.
 V. Santos, 07-dez-2019,13:27
 
  # Execution
+ 
+ the binary is called **myf** inside the build function. Thus, to run:
+ 
+ ```bash
+ ./myf
+ ```
 
  # Compilation
  
- Generate the documentation: make doc
+ Create a build folder. Inside your repository's folder run
+ 
+ ```bash
+ mkdir build
+ ```
+ 
+ Now configure cmake and compile
+ 
+ ```bash
+ cd build && cmake .. && make
+ ```
+ 
+ To generate the documentation use
+  
+  ```bash
+  make doc
+  ```
 
  # Installation
 
