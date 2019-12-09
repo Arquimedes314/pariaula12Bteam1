@@ -53,3 +53,7 @@ dkms.conf
 
 # idea clion files
 .idea/*
+
+
+cmake-build-debug/
+build/
