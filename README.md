@@ -1,7 +1,20 @@
-
 Build the application and test.
 
 V. Santos, 07-dez-2019,13:27
+
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Execution](#execution)
+- [Compilation](#compilation)
+- [Installation](#installation)
+  * [Instructions and main packages](#instructions-and-main-packages)
+  * [prototypes.h](#prototypesh)
+  * [misc](#misc)
+  * [asciidoc](#asciidoc)
+  * [opencv](#opencv)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
  # Execution
  
